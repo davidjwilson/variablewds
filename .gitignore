@@ -1,5 +1,5 @@
-#don't want to upload big igrns/xmm files
+#don't want to upload big files
 *.fits
-xmm/data/*
+*.escv
 *.zip
 *apt*
